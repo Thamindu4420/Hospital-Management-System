@@ -1,0 +1,66 @@
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\bin\Debug\net7.0-windows\HealthCare Plus.exe
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\bin\Debug\net7.0-windows\HealthCare Plus.deps.json
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\bin\Debug\net7.0-windows\HealthCare Plus.runtimeconfig.json
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\bin\Debug\net7.0-windows\HealthCare Plus.dll
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\bin\Debug\net7.0-windows\HealthCare Plus.pdb
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Admin_Dashboard.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Properties.Resources.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Staff_Registration_Form.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare Plus.csproj.GenerateResource.cache
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare Plus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare Plus.AssemblyInfoInputs.cache
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare Plus.AssemblyInfo.cs
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare Plus.csproj.CoreCompileInputs.cache
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare Plus.dll
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\refint\HealthCare Plus.dll
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare Plus.pdb
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare Plus.genruntimeconfig.cache
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\ref\HealthCare Plus.dll
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Form1.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\bin\Debug\net7.0-windows\HealthCare Plus.dll.config
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\bin\Debug\net7.0-windows\MySql.Data.dll
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\bin\Debug\net7.0-windows\MySql.Data.xml
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare Plus.csproj.AssemblyReference.cache
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare Plus.csproj.CopyComplete
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Staff_Dashboard.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Admin_Profile.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Staff_Profile.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Staff_Details.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Doctor_Registration.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Doctor_Details.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Add_Medical_Items.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Medical_Items.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Appointment_Types.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Doctor_Schedules.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Add_Appointment.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Patient_Appointment.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Add_Patient.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Patient_Details.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Add_Medication.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Medications.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.View_Medication.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Add_Room.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Room_Availability.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Update_Room.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Add_Patient_Room.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Patient_Rooms.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Update_Patient_Room.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Room_Prices.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Billing.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Bills_and_Invoices_Selection.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Update_Bill.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.View_Bill.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Invoice.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Report_Types.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Total_Income_Report.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Medical_Items_Report.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Appointments_Report.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Total_Doctors_Report.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Total_Staff_Report.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.Total_Patients_Report.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.View_Patient_Details.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.View_Doctor_Details.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.View_Room_Availability.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.View_Patient_Rooms.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.View_Room_Prices.resources
+C:\Users\THAMINDU\Documents\Visual Studio Projects\HealthCare Plus\obj\Debug\net7.0-windows\HealthCare_Plus.View_Medical_Items.resources
